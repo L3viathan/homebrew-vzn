@@ -1,4 +1,4 @@
-# L3viathan Vzn
+# vzn
 
 ## How do I install these formulae?
 
