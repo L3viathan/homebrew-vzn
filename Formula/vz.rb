@@ -4,7 +4,7 @@ class Vz < Formula
   desc "Small household scripts"
   homepage "https://github.com/L3viathan/vz"
   url "https://github.com/L3viathan/vz/archive/refs/tags/v0.2.tar.gz"
-  sha256 ""
+  sha256 "8f8907de1e3556af30e12f4b795a62c075d8ebec2923355389e591d068034180"
   license ""
 
   depends_on "python"
